@@ -68,7 +68,7 @@
 # print(f"El modulo de {a} % {b} es {modulo}")
 #--------------------------------------ejercicio20---------------------------------------------------#
 # n1 = int(input("ingresa el numero 1: "))
-# n2 = int(input("ingresa el numero 2: "))
+# n2 = int(input("ingresa el numero 2: "))#wewewewewewewe
 # n3 = int(input("ingresa el numero 3: "))
 # promedio = (n1 + n2 + n3) / 3
 # print(f"El promedio es: {promedio}")
