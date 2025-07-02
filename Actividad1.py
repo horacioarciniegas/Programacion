@@ -62,5 +62,29 @@
 # operacion= num1 + num2
 # print(operacion)
 #--------------------------------------ejercicio19---------------------------------------------------
-# operacion = a % b
-# print(operacion)
+# a = 1
+# b = 5
+# modulo = a % b
+# print(f"El modulo de {a} % {b} es {modulo}")
+#--------------------------------------ejercicio20---------------------------------------------------#
+# n1 = int(input("ingresa el numero 1: "))
+# n2 = int(input("ingresa el numero 2: "))
+# n3 = int(input("ingresa el numero 3: "))
+# promedio = (n1 + n2 + n3) / 3
+# print(f"El promedio es: {promedio}")
+#--------------------------------------ejercicio21---------------------------------------------------#
+# nombre_completo = input("ingresa tu nombre completo: ")
+#--------------------------------------ejercicio22---------------------------------------------------#
+# primer_nombre = nombre_completo.split()[0]
+# print(f"Tu nombre es: {primer_nombre}")
+#--------------------------------------ejercicio23---------------------------------------------------#
+# num1 = int(input("ingresa el primer numero: "))
+# num2 = int(input("ingresa el segundo numero: "))
+
+# mayor = max(num1, num2)
+
+# print(f"el numero mayor es: {mayor}")
+#--------------------------------------ejercicio24---------------------------------------------------#
+# año_nacimiento = int(input("¿En que año naciste? "))
+# edad = 2025 - año_nacimiento
+# print(f"Tienes {edad} años.")
