@@ -87,4 +87,6 @@
 #--------------------------------------ejercicio24---------------------------------------------------#
 # año_nacimiento = int(input("¿En que año naciste? "))
 # edad = 2025 - año_nacimiento
-# print(f"Tienes {edad} años.")
+# print(f"Tienes {edad} años.") #no guarda
+
+#Nose 
