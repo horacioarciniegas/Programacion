@@ -17,3 +17,4 @@
 # promedio = operacion / 5
 
 # print(f"el queipo de futbol {nombre} tiene un promedio de {promedio}")
+ #rrrrrrrrrrrr
